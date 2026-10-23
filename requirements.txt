@@ -1,0 +1,7 @@
+ollama
+python-docx
+langchain
+langchain-community
+chromadb
+requests
+pillow
